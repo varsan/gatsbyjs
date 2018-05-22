@@ -2,6 +2,8 @@
 title: "ngrok - tool for exposing your local web server to the internet"
 date: "2018-05-10"
 author: "Oleksandr Varanytsia"
+keywords: "ngrok, tutorial, install, localhost, web server, internet, public URL, Linux, Ubuntu 16.04, apache, https"
+description: "Tutorial for install ngrok - tool for exposing local web server to the internet - on Ubuntu 16.04 with Apache"
 ---
 There are many reasons why we would want to exposing our local web server to the internet. For example, we need public URLs:
 

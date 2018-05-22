@@ -1,7 +1,9 @@
 ---
-title: "PHP 7: Install Imagick "
+title: "PHP 7: Install Imagick"
 date: "2018-05-21"
 author: "Oleksandr Varanytsia"
+keywords: "Imagick, tutorial, install, extension, PHP 7, CENTOS 6.9, cPanel, WHM, EasyApache 4, PHP-FPM"
+description: "Tutorial for install Imagick extension for PHP 7 on server with CENTOS 6.9, cPanel, WHM, EasyApache 4 and PHP-FPM"
 ---
 **Task**: install Imagick for PHP 7
 

@@ -8,10 +8,10 @@ import './index.css'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="it"
+      title="IT - blog of PHP developer about resolving of daily cases"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        { name: 'description', content: 'Blog of PHP developer about resolving of daily cases. There are tutorials and examples inside IT. In most cases it connected with PHP and Linux' },
+        { name: 'keywords', content: 'IT, PHP, Linux. Ubuntu, tutorials, blog, examples' },
         { name: 'google-site-verification', content: 'F7ZjxnRJ3vMUoGEnXzsR7nChm3v5wz0zqgEf_vFS9xY' },
       ]}
     />

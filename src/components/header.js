@@ -26,7 +26,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          it
+          IT
         </Link>
       </h1>
     </div>
