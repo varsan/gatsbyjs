@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Gatsby Default Starter',
+    siteUrl: `https://it.netlify.com`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -26,5 +27,8 @@ module.exports = {
         // exclude: ["/preview/**", "/do-not-track/me/too/"],
       },
     },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+    }
   ],
 }
